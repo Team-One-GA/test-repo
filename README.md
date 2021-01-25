@@ -1,4 +1,6 @@
-[![Team One Logo](https://i.imgur.com/Uz4jhmR.jpg)
+[!Team One Logo](https://i.imgur.com/Uz4jhmR.jpg)
+
+# Chris was here
 
 # react-auth-template
 
